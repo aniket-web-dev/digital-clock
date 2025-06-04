@@ -1,10 +1,11 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+![Digital Clock](https://github.com/user-attachments/assets/c54de588-bfec-428c-814b-bc7886170822)
 ## Available Scripts
 
 In the project directory, you can run:
+
 
 ### `npm start`
 
